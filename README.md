@@ -11,6 +11,7 @@ Welcome to my collection of CTF (Capture The Flag) challenges. Here, I will be u
 - 🖼️ [Steganography](#%EF%B8%8F-steganography)
 - 🔑 [Cryptography](#-cryptography)
 - 🔒 [Exploitation](#-exploitation)
+- 🌐 [Networking](#-networking)
 
 <!-- Por si necesitas más adelante
 > 🔐 Exploitation
@@ -66,4 +67,10 @@ Welcome to my collection of CTF (Capture The Flag) challenges. Here, I will be u
 | 👨‍💻 CTF          | 🌐 Link                                             |
 |---------------------------|--------------------------------------------------|
 | **Challenge 03** | [Download Here](https://mega.nz/file/whJAjZjR#-cUQLry-tZKJaNDWW7uQsorUtSr3Q7OxBeYMz3ff-sw) |
+
+### 🌐 Networking
+
+| 👨‍💻 CTF          | 🌐 Link                                             |
+|---------------------------|--------------------------------------------------|
+| **Challenge 06** | [Download Here](https://mega.nz/file/h9oRgA5I#QDlyG1SxWfaAdhj9ztDkq6jfxHnEkcjcYe9zfcgOGwo) |
 
