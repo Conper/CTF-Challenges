@@ -12,6 +12,7 @@ Welcome to my collection of CTF (Capture The Flag) challenges. Here, I will be u
 - 🔑 [Cryptography](#-cryptography)
 - 🔒 [Exploitation](#-exploitation)
 - 🌐 [Networking](#-networking)
+- 🌀 [Obfuscation](#-obfuscation)
 
 <!-- Por si necesitas más adelante
 > 🔐 Exploitation
@@ -74,3 +75,9 @@ Welcome to my collection of CTF (Capture The Flag) challenges. Here, I will be u
 |---------------------------|--------------------------------------------------|
 | **Challenge 06** | [Download Here](https://mega.nz/file/h9oRgA5I#QDlyG1SxWfaAdhj9ztDkq6jfxHnEkcjcYe9zfcgOGwo) |
 
+
+### 🌀 Obfuscation
+
+| 👨‍💻 CTF          | 🌐 Link                                             |
+|---------------------------|--------------------------------------------------|
+| **Challenge 07** | [Download Here](https://mega.nz/file/N5gUgIQY#GPGNm_1XrenlNsJYOciV5slR8LrfYxzoX2pPvbZSWPs) |
