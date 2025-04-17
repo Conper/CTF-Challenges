@@ -52,6 +52,7 @@ Welcome to my collection of CTF (Capture The Flag) challenges. Here, I will be u
 |---------------------------|--------------------------------------------------|
 | **Challenge 01** | [Download Here](https://mega.nz/file/kkJDSTTK#D_45DH1sjIc7QCX59r-hNsAAXqGW59ewQltWURo_6Vc) |
 | **Challenge 05** | [Download Here](https://mega.nz/file/M8xnDBSC#YGISnAg-iFkeWhNbPU5nyyaRLeL3ajWcn5kSkoTO1Xk) |
+| **Challenge 08** | [Download Here](https://mega.nz/file/4phDzIoD#jQRtFKa3gshdZHjB0TZAX4wolnBd_4jr1WYpckR-UsI) |
 
 
 
@@ -61,7 +62,6 @@ Welcome to my collection of CTF (Capture The Flag) challenges. Here, I will be u
 |---------------------------|--------------------------------------------------|
 | **Challenge 02** | [Download Here](https://mega.nz/file/YlQSjL4I#xkA7Tv-waHddzxH5MI9O6hdyXW-sd47izfesIBmzi7M) |
 | **Challenge 04** | [Download Here](https://mega.nz/file/JkQWzQBT#U_T5jiwSQzJY8N-dwBLnB7cApv-5okZBTSiq8uWXx1g) |
-| **Challenge 08** | [Download Here](https://mega.nz/file/4phDzIoD#jQRtFKa3gshdZHjB0TZAX4wolnBd_4jr1WYpckR-UsI) |
 
 
 
